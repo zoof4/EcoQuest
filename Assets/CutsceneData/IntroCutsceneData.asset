@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6afa77cbd9b5cba45974d03483edcbf8, type: 3}
+  m_Name: IntroCutsceneData
+  m_EditorClassIdentifier: 
+  cutsceneImages:
+  - {fileID: -4885339996741437510, guid: a65929243da3c904dbe74a474e262ba1, type: 3}
+  - {fileID: -9042312616322372504, guid: bab44cb774b9bc344bc3b335f96b42eb, type: 3}
+  - {fileID: -4297926356199294440, guid: 71c1a00439884fb4390f67fafbec9202, type: 3}
+  - {fileID: -6640827127614139907, guid: 5bf44758e0ec0a842a3b58baa0c22971, type: 3}
+  - {fileID: 1651400060158238548, guid: f94199fdf607a904ab5fe5184b04df51, type: 3}
+  - {fileID: -282797881403968347, guid: c9a4e63fb2422904784d0b060a2afdb1, type: 3}
+  - {fileID: 232570029770602402, guid: 06450b13d387ba3499efa07180eff0c6, type: 3}
+  - {fileID: 493014878947716636, guid: 3df216b6c59493a41ae1df749a525d9d, type: 3}
+  - {fileID: -3364726321735983354, guid: 55a454bd14088fc4a9ff9165a188405b, type: 3}
+  - {fileID: -5809297915275255420, guid: 9b22518692a2ad84abec37a7d94607a8, type: 3}
+  - {fileID: -5877817867351116031, guid: 7143a8a03c19f134482a23fde43fd803, type: 3}
+  - {fileID: 2204601146821785768, guid: f9e82bbe6597492488131da1d4037dff, type: 3}
+  - {fileID: 8344084133986436377, guid: d5c87aa3df2cddb498e694ac5536ae47, type: 3}
+  cutsceneSubtitles:
+  - "\uC624\uB798\uC804... \\n\uC9C0\uAD6C\uB294 \uC544\uB984\uB2E4\uC6E0\uB2E4."
+  - "\uD478\uB978 \uD558\uB298, \uCD08\uB85D \uC232, \uB9D1\uC740 \uBC14\uB2E4"
+  - "\uADF8\uB7EC\uB098 \uC2DC\uAC04\uC774 \uC9C0\uB098\uBA74\uC11C\\n\uC778\uAC04\uC740
+    \uC18C\uC911\uD568\uC744 \uC78A\uC5C8\uB2E4."
+  - "\uADF8\uB7EC\uB098 \uC2DC\uAC04\uC774 \uC9C0\uB098\uBA74\uC11C\\n\uC778\uAC04\uC740
+    \uC18C\uC911\uD568\uC744 \uC78A\uC5C8\uB2E4."
+  - "\uADF8\uB4E4\uC740 \uC790\uC5F0\uC744 \uD30C\uAD34\uD588\uACE0\\n\uC9C0\uAD6C\uB294
+    \uBCD1\uB4E4\uAE30 \uC2DC\uC791\uD588\uB2E4."
+  - "\uD558\uC9C0\uB9CC \uC9C0\uAD6C\uB294\\n\uD63C\uC790\uAC00 \uC544\uB2C8\uC5C8\uB2E4."
+  - "\uBA40\uB9AC \uC6B0\uC8FC \uC5B4\uB518\uAC00,\\n\uC9C0\uAD6C\uC640 \uC5F0\uACB0\uB41C
+    \uB610 \uB2E4\uB978 \uBCC4"
+  - "\uBE14\uB8E8\uB9C8\uBE14\uC774 \uC788\uC5C8\uB2E4."
+  - "\uADF8\uACF3\uC740 \uC9C0\uAD6C\uCC98\uB7FC \uD478\uB974\uACE0\\n\uC544\uB984\uB2E4\uC6E0\uC9C0\uB9CC..."
+  - "\uC9C0\uAD6C\uAC00 \uBCD1\uB4E4\uC218\uB85D\\n\uBE14\uB8E8\uB9C8\uBE14\uC774
+    \uD568\uAED8 \uC2DC\uB4E4\uC5B4\uAC14\uB2E4."
+  - "\uADF8\uB9AC\uACE0 \uB9C8\uCE68\uB0B4...\\n\uC218\uD638\uC790\uB294 \uB9C8\uC9C0\uB9C9
+    \uD798\uC744 \uBAA8\uC544\\n\uB450 \uBA85\uC758 \uC790\uB9E4\uC5D0\uAC8C \uC18D\uC0AD\uC600\uB2E4."
+  - "\"\uC2DC\uAC04\uC774 \uC5C6\uC5B4. \uB108\uD76C\uB9CC\uC774\\n\uC774 \uC704\uAE30\uB97C
+    \uB9C9\uC744 \uC218 \uC788\uC5B4...\""
+  - "\uADF8\uB807\uAC8C \uC790\uB9E4\uB294 \uBCC4\uACFC \uBCC4 \uC0AC\uC774\uB97C
+    \uC787\uB294\\n\uC5EC\uC815\uC744 \uC2DC\uC791\uD588\uB2E4."
+  cutsceneAudioClips:
+  - {fileID: 0}
